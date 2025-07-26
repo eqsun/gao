@@ -6,7 +6,7 @@
           "name": "本地live文件",
           "type":"0",
           "pass": true,
-          "url":"./list.m3u",
+          "url":"https://github.com/eqsun/gao/raw/refs/heads/master/list.m3u",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
